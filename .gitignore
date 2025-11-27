@@ -1,0 +1,52 @@
+# ===== CLion =====
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+Testing/
+CTestTestfile.cmake
+Makefile
+
+# Auto-generated build files
+build/
+build-*/
+
+# ===== Compiled binaries =====
+*.o
+*.obj
+*.lo
+*.a
+*.la
+*.lib
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+
+# ===== Logs =====
+*.log
+
+# ===== Temporary files =====
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# ===== Coverage =====
+*.gcno
+*.gcda
+*.gcov
+
+# ===== Cache =====
+.cache/
