@@ -11,4 +11,7 @@ It simulates (and on Linux partially retrieves real) system information such as:
 - CPU Usage (per-core + total);
 - Memory usage;
 - Load average;
-- Swap usage
+- Swap usage;
+- Disk usage + I/O activity;
+- Network upload/download;
+- GPU usage;
