@@ -15,3 +15,8 @@ It simulates (and on Linux partially retrieves real) system information such as:
 - Disk usage + I/O activity;
 - Network upload/download;
 - GPU usage;
+- Top process;
+- Battery status;
+- CPU temperature;
+- Historical sparklines;
+- And more…
