@@ -5,7 +5,8 @@
 
 # 📌 Overview
 
-Terminal Visualizer is a lightweight, colorful, and animated terminal dashboard written in C.
+Terminal Visualizer is a sleek and interactive terminal dashboard built in C that brings your system stats to life with vibrant colors and dynamic bars. Whether you're a developer, system admin, or just a tech enthusiast, it offers a fun way to monitor your system's health and performance in real time.
+
 It simulates (and on Linux partially retrieves real) system information such as:
 
 - CPU Usage (per-core + total);
