@@ -20,3 +20,18 @@ It simulates (and on Linux partially retrieves real) system information such as:
 - CPU temperature;
 - Historical sparklines;
 - And more…
+---
+
+# 🚀 Features
+
+🌍 Cross-Platform: Runs on both Windows and Linux (with some Linux-specific capabilities for real stats);
+
+🎨 Colorful & Interactive: Visualize your stats with vibrant colored bars, sparklines, and dynamic updates;
+
+⚡ Real-Time Monitoring: Watch as system stats are updated live, offering a fresh dashboard every second;
+
+🖥️ Terminal-Friendly: All data is displayed directly in your terminal, without the need for a GUI;
+
+💪 Lightweight: Designed to be efficient, it uses minimal resources while running;
+
+🛠️ Customizable: Adjust history size, bar length, and update interval to suit your preferences.
