@@ -36,3 +36,13 @@ It simulates (and on Linux partially retrieves real) system information such as:
 💪 Lightweight: Designed to be efficient, it uses minimal resources while running;
 
 🛠️ Customizable: Adjust history size, bar length, and update interval to suit your preferences.
+
+---
+
+# ⚙️ Requirements
+
+- C Compiler: ny compatible C compiler;
+- CMake: Version 4.0 or higher (for building the project);
+- Platform-Specific Libraries:
+  - On Windows: Links against pdh.lib to fetch system performance data;
+  - On Linux: Uses standard libraries for system info, such as sysinfo.h, unistd.h, etc.
