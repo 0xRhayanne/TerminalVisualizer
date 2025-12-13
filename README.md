@@ -46,3 +46,16 @@ It simulates (and on Linux partially retrieves real) system information such as:
 - Platform-Specific Libraries:
   - On Windows: Links against pdh.lib to fetch system performance data;
   - On Linux: Uses standard libraries for system info, such as sysinfo.h, unistd.h, etc.
+
+---
+
+# 📥 Installation
+
+Getting up and running is a breeze! Here’s how:
+
+1. Clone the repository
+- Clone this repo to your local machine and navigate into the project folder:
+```
+git clone https://github.com/0xRhayanne/TerminalVisualizer.git
+cd TerminalVisualizer
+```
