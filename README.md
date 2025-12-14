@@ -71,3 +71,6 @@ make
 ---
 3. Run it
 - Once built, run the executable:
+```
+./TerminalVisualizer
+```
