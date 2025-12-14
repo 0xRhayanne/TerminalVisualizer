@@ -68,3 +68,6 @@ cd build
 cmake ..
 make
 ```
+---
+3. Run it
+- Once built, run the executable:
