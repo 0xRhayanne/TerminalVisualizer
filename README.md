@@ -59,3 +59,6 @@ Getting up and running is a breeze! Here’s how:
 git clone https://github.com/0xRhayanne/TerminalVisualizer.git
 cd TerminalVisualizer
 ```
+---
+2. Build the project
+- Use CMake to build the project:
