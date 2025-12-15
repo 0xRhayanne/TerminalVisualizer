@@ -74,3 +74,12 @@ make
 ```
 ./TerminalVisualizer
 ```
+---
+# 🖼️ How It Looks
+
+Check out the terminal dashboard in action!
+You'll see real-time visualizations of:
+
+CPU Usage
+
+Colorful progress bars for total CPU usage and per-core stats!
