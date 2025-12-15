@@ -83,3 +83,11 @@ You'll see real-time visualizations of:
 CPU Usage
 
 Colorful progress bars for total CPU usage and per-core stats!
+```
+┌────────────────────── CPU ──────────────────┐
+│ CPU Total      : [██████████----------] 75% │
+│ CPU Core 1     : [███████-------------] 65% │
+│ CPU Core 2     : [█████████-----------] 70% │
+└─────────────────────────────────────────────┘
+```
+---
