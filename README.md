@@ -38,6 +38,18 @@ It simulates (and on Linux partially retrieves real) system information such as:
 🛠️ Customizable: Adjust history size, bar length, and update interval to suit your preferences.
 
 ---
+# 🧱 Tech Stack
+
+- Language: C (C11);
+- Build System: CMake;
+- IDE: CLion;
+
+Platform APIs:
+
+- Linux: ```sysinfo```, ```statvfs```, ```unistd```
+- Windows: ```pdh```, ```windows.h```
+
+---
 
 # ⚙️ Requirements
 
