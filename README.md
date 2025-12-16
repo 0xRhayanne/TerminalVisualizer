@@ -94,7 +94,6 @@ You'll see real-time visualizations of:
 
 CPU Usage
 
-Colorful progress bars for total CPU usage and per-core stats!
 ```
 ┌────────────────────── CPU ──────────────────┐
 │ CPU Total      : [██████████----------] 75% │
@@ -102,4 +101,18 @@ Colorful progress bars for total CPU usage and per-core stats!
 │ CPU Core 2     : [█████████-----------] 70% │
 └─────────────────────────────────────────────┘
 ```
+
+Memory Usage
+```
+┌────────────────── Memory ──────────────────┐
+│ Memory    : [███████████---------] 8234 MB │
+└────────────────────────────────────────────┘
+```
+Load Average
+```
+┌───────────── Load Avg ────────────┐
+│ 1m: 1.12   5m: 0.97   15m: 0.75   │
+└───────────────────────────────────┘
+```
+
 ---
