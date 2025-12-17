@@ -114,5 +114,10 @@ Load Average
 │ 1m: 1.12   5m: 0.97   15m: 0.75   │
 └───────────────────────────────────┘
 ```
-
 ---
+# ⚠️ Limitations & Notes
+
+- Some metrics are mocked or randomized, especially on Windows;
+- GPU usage is currently simulated;
+- Parsing /proc for full process stats is intentionally simplified;
+- Designed as a learning + visualization project, not a replacement for htop.
