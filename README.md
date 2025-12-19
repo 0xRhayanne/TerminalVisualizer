@@ -121,3 +121,9 @@ Load Average
 - GPU usage is currently simulated;
 - Parsing /proc for full process stats is intentionally simplified;
 - Designed as a learning + visualization project, not a replacement for htop.
+---
+
+# 🧠 Ideas for Future Improvements
+
+- Real CPU/GPU stats on Windows;
+- Proper ```/proc``` parsing for top processes;
