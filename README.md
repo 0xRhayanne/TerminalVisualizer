@@ -127,3 +127,5 @@ Load Average
 
 - Real CPU/GPU stats on Windows;
 - Proper ```/proc``` parsing for top processes;
+- Config file or CLI flags;
+- Multi-disk support;
