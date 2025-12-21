@@ -129,3 +129,4 @@ Load Average
 - Proper ```/proc``` parsing for top processes;
 - Config file or CLI flags;
 - Multi-disk support;
+- Export metrics to file;
