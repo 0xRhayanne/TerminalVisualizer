@@ -130,3 +130,4 @@ Load Average
 - Config file or CLI flags;
 - Multi-disk support;
 - Export metrics to file;
+- Windows battery & temperature APIs.
