@@ -127,3 +127,8 @@ make
 - Multi-disk support;
 - Export metrics to file;
 - Windows battery & temperature APIs.
+---
+
+# ⭐ Acknowledgments
+
+Inspired by tools like ```htop```, ```neofetch```, and terminal dashboards, built for fun, learning, and terminal aesthetics.
